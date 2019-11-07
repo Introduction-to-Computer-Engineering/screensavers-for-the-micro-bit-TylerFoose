@@ -109,7 +109,7 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 
-_[Your description of screensaver 1]_
+grid amimation from the bottom right to the upper left.
 
 ### SS 2 
 
