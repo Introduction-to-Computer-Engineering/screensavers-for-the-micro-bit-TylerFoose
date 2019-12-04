@@ -116,9 +116,12 @@ grid amimation from the bottom right to the upper left.
 this is points on the microbit that bounce from one wall to another on a button pressed 
 ### SS 3
 
+for this screensaver on a button pressed the leds will rotate like a plane propeller 
 
 ## Demo URL
 #### SS 1
 https://imgur.com/a/McE2mOg 
 #### SS 2
 https://imgur.com/a/xIIVlx0 
+#### SS 3
+https://imgur.com/a/IYt9Rda
