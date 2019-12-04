@@ -118,5 +118,7 @@ this is points on the microbit that bounce from one wall to another on a button 
 
 
 ## Demo URL
-https://imgur.com/a/McE2mOg SS1
-https://imgur.com/a/xIIvIx0
+#### SS 1
+https://imgur.com/a/McE2mOg 
+#### SS 2
+https://imgur.com/a/xIIVlx0 
