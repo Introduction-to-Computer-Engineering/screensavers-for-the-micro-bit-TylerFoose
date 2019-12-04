@@ -1,6 +1,6 @@
 input.onButtonPressed(Button.A, function () {
-    breath3 = 1
-    while (breath3 = 1) {
+    breath = 1
+    while (true) {
         serial.writeLine("loop")
         basic.showLeds(`
             . . . . .
@@ -68,10 +68,8 @@ input.onButtonPressed(Button.A, function () {
     }
 })
 input.onButtonPressed(Button.B, function () {
-    breath2 = 0
-    while (breath2 = 0)
+    breath = 0
+    while (true)
         basic.showString("remember to breath")
 })
-let breath2 = 0
-let breath = false
-let breath3 = 0
+
