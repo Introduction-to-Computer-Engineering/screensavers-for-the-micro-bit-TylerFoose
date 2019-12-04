@@ -113,7 +113,10 @@ grid amimation from the bottom right to the upper left.
 
 ### SS 2 
 
-_[And so on]_
+this is points on the microbit that bounce from one wall to another on a button pressed 
+### SS 3
+
 
 ## Demo URL
-https://imgur.com/a/McE2mOg s1
+https://imgur.com/a/McE2mOg SS1
+https://imgur.com/a/xIIvIx0
